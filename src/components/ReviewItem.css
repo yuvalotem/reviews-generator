@@ -1,0 +1,30 @@
+.review-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  gap: 0.5rem;
+  justify-content: space-between;
+  border-radius: 0.25rem;
+}
+
+.review-img {
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.actions-container {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.5rem
+}
+.action-item {
+  cursor: pointer;
+}
+
+.review-content {
+  color: black;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}

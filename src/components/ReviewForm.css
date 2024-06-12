@@ -1,0 +1,23 @@
+.review-form-container {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+}
+
+.review-form-input {
+  background-color: #fff;
+  width: 98%;
+  border-radius: 0.25rem;
+  border-color: grey;
+  height: 2rem;
+  color:black;
+}
+.review-form-button {
+  background-color: #f6633f;
+  border-radius: 0.25rem;
+  width: 5rem;
+}
+
